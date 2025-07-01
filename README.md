@@ -48,6 +48,7 @@ Each plugin comes with its own documentation, but here’s a quick rundown:
 - Synths: Use the knobs and sliders to adjust filters, oscillators, and modulation.
 - Effects: Apply effects to tracks, including reverb, delay, EQ, etc.
 - Automation: Don’t forget that you can automate almost any parameter in FL Studio to make your sounds more dynamic!
+![2323895](https://github.com/user-attachments/assets/908bc735-9f1b-4c66-8c19-bf751cabb742)
 
 ---
 
